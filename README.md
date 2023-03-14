@@ -6,3 +6,6 @@ Jag delade dessa med de andra i min grupp och efter det så har jag gått in på
 
 ## Vecka 10
 > Jag har letat upp färger som vi kan använda och vi hade problem med fildelningen så vi fixade det.
+
+## Vecka 11
+> Jag har bestämt fonter och påbörjat planeringen och vi började också konstruktionen av loggan
