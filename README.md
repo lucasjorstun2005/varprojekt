@@ -9,3 +9,9 @@ Jag delade dessa med de andra i min grupp och efter det så har jag gått in på
 
 ## Vecka 11
 > Jag har bestämt fonter och påbörjat planeringen och vi började också konstruktionen av loggan
+
+## Vecka 12
+> Planerade inför konstruktionen
+
+## Vecka 13
+> 
