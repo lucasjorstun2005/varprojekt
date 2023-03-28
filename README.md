@@ -14,4 +14,4 @@ Jag delade dessa med de andra i min grupp och efter det så har jag gått in på
 > Planerade inför konstruktionen
 
 ## Vecka 13
-> 
+> Börjat med konstruktionen där vi har börjat med att göra en navbar samt att lägga in text och bilder
