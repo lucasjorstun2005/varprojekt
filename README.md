@@ -15,3 +15,6 @@ Jag delade dessa med de andra i min grupp och efter det så har jag gått in på
 
 ## Vecka 13
 > Börjat med konstruktionen där vi har börjat med att göra en navbar samt att lägga in text och bilder
+
+## Vecka 14
+> Jag har börjat med att lägga in fakta i dokumentet om solkraft och gjorde en fördel och nackdel lista
