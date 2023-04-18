@@ -18,3 +18,6 @@ Jag delade dessa med de andra i min grupp och efter det så har jag gått in på
 
 ## Vecka 14
 > Jag har börjat med att lägga in fakta i dokumentet om solkraft och gjorde en fördel och nackdel lista
+
+## Vecka 16
+> Jag har börjat bygga min del av sidan med CSS.
